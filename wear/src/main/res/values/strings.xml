@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WearRecorderTest</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="save">save</string>
+    <string name="start">start</string>
+</resources>
